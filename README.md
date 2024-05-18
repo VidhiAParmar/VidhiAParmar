@@ -13,8 +13,6 @@
 
 - 📫 Connect with me **<a href="mailto:parmaravidhi@gmail.com">parmaravidhi@gmail.com</a>**
 
-- ⚡ Fun fact **I'm a Fast learner😉.**
-
 - 😀 Interestred in **Web Development🚀.**
 
 <h3 align="left">Connect with me:</h3>
