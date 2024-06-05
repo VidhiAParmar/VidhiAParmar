@@ -14,6 +14,8 @@
 - 📫 Connect with me **<a href="mailto:parmaravidhi@gmail.com">parmaravidhi@gmail.com</a>**
 
 - 😀 Interestred in **Web Development🚀.**
+  
+- 😀 I am a **Quick Adaptive.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
